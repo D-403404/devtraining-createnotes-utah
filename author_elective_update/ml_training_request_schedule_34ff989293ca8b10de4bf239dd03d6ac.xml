@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ml_training_request_schedule">
+    <ml_training_request_schedule action="DELETE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <business_calendar/>
+        <capability/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_run_end/>
+        <entered_run_start/>
+        <entered_time/>
+        <max_drift/>
+        <ml_capability_definition display_value="Closed alert similarity">f8d74bdddbc18850a6d183243996194d</ml_capability_definition>
+        <ml_solution/>
+        <name>Closed alert similarity</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <repeat_every/>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_daysofweek/>
+        <run_end/>
+        <run_month/>
+        <run_period>1970-01-31 00:00:00</run_period>
+        <run_start>2026-07-15 01:23:48</run_start>
+        <run_time/>
+        <run_type>periodically</run_type>
+        <run_weekinmonth/>
+        <solution_definition/>
+        <sys_class_name>ml_training_request_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-15 01:23:48</sys_created_on>
+        <sys_id>34ff989293ca8b10de4bf239dd03d6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed alert similarity</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>ml_training_request_schedule_34ff989293ca8b10de4bf239dd03d6ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-15 01:23:48</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </ml_training_request_schedule>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>7f153d6d3b8007d816e44a8aa4e45ab3</instance_id>
+        <instance_name>dev373421</instance_name>
+        <name>ml_training_request_schedule_34ff989293ca8b10de4bf239dd03d6ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ml_training_request_schedule">
+    <ml_training_request_schedule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <business_calendar/>
+        <capability/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_run_end/>
+        <entered_run_start/>
+        <entered_time/>
+        <max_drift/>
+        <ml_capability_definition display_value="Closed alert similarity">f8d74bdddbc18850a6d183243996194d</ml_capability_definition>
+        <ml_solution/>
+        <name>Closed alert similarity</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <repeat_every/>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_daysofweek/>
+        <run_end/>
+        <run_month/>
+        <run_period>1970-01-31 00:00:00</run_period>
+        <run_start>2026-07-15 01:23:48</run_start>
+        <run_time/>
+        <run_type>periodically</run_type>
+        <run_weekinmonth/>
+        <solution_definition/>
+        <sys_class_name>ml_training_request_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-15 01:23:48</sys_created_on>
+        <sys_id>34ff989293ca8b10de4bf239dd03d6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed alert similarity</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>ml_training_request_schedule_34ff989293ca8b10de4bf239dd03d6ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-15 01:23:48</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </ml_training_request_schedule>
+</record_update>]]></payload>
+        <payload_hash>1940980876</payload_hash>
+        <record_name>Closed alert similarity</record_name>
+        <reverted_from/>
+        <source>748f6c5a938e8b10de4bf239dd03d65c</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-15 02:31:51</sys_created_on>
+        <sys_id>758fec5a938e8b10de4bf239dd03d642</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f639dc3d70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-15 02:31:51</sys_updated_on>
+        <type>Training Request Schedule</type>
+        <update_guid>358fec5afb8e8b10f48bda20ab6c7142</update_guid>
+        <update_guid_history>358fec5afb8e8b10f48bda20ab6c7142:1940980876</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-15 03:23:48</sys_created_on>
+        <sys_db_object display_value="" name="ml_training_request_schedule">ml_training_request_schedule</sys_db_object>
+        <sys_id>0ce40e9a37764b2b831fde752d065e29</sys_id>
+        <sys_metadata>34ff989293ca8b10de4bf239dd03d6ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed alert similarity</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>ml_training_request_schedule_34ff989293ca8b10de4bf239dd03d6ac</sys_update_name>
+        <sys_update_version display_value="ml_training_request_schedule_34ff989293ca8b10de4bf239dd03d6ac">758fec5a938e8b10de4bf239dd03d642</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-15 03:23:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
